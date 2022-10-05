@@ -1,2 +1,2 @@
-# Melody
-training project
+# Melody - training project Glo Academy
+## Выполнила Екатерина
